@@ -1,0 +1,22 @@
+# macOS
+.DS_Store
+**/.DS_Store
+
+# Data
+data/raw/
+data/processed/
+*.csv
+*.parquet
+*.db
+*.duckdb
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# IDE
+.vscode/
+.idea/
